@@ -5,9 +5,16 @@ dev-ignore/
 report.md
 eval_bundle/
 
-# Secrets
+# Secrets & Credentials
 .env
+.env.*
+*kaggle*.json
+.kaggle/
+*.key
+*.pem
+*.token
 
 # Local setup
 CLAUDE.md
 wandb/
+
