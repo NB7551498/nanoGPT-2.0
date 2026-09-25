@@ -1,0 +1,15 @@
+{
+  "id": "nikhilbhardwaj2003/nanochat-gpu-training",
+  "title": "nanochat GPU Training",
+  "code_file": "nanochat_kaggle_gpu.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
